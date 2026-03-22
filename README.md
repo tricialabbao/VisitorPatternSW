@@ -30,3 +30,6 @@ public class TelcoPromo {
                 unli.showUnliCallsTextOffer(ditto.getTelcoName(), ditto.getUnliCallText()));
     }
 }    
+```
+## UML Class Diagram
+![Image](https://github.com/tricialabbao/Automated-Waste-Management-System/blob/main/Waste-Management%20UML.png)
